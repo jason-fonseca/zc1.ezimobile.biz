@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod 777 public_html/includes/modules/pages
+rm public_html/.htaccess
+rm public_html/mobile.php

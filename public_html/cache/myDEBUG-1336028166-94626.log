@@ -1,0 +1,2 @@
+[03-May-2012 06:56:06 UTC] PHP Warning:  file_put_contents(../mobile.php) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in /home/ezimobile/domains/zc1.ezimobile.biz/public_html/includes/languages/english/html_includes/classic/define_site_map.php on line 6
+[03-May-2012 06:56:06 UTC] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/ezimobile/domains/zc1.ezimobile.biz/public_html/includes/languages/english/html_includes/classic/define_site_map.php on line 7
